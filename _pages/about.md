@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: Data Science & Machine Learning Enthusiast | Automation & Robotics Engineer
 
