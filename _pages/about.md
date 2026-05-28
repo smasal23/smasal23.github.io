@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: "Pune, Maharashtra, India"
+  more_info: ""
 
 news: false
 latest_posts: false
@@ -16,7 +16,7 @@ selected_papers: false
 social: true
 ---
 
-I am a Machine Learning Engineer with a unique foundation in Industrial Automation and Robotics. My expertise lies at the intersection of physical hardware and artificial intelligence—building robust data pipelines, deploying computer vision models, and engineering predictive analytics frameworks.
+I am a Data Science & Machine Learning Enthusiast based in Pune, Maharashtra, India, with a unique foundation in Industrial Automation and Robotics. My expertise lies at the intersection of physical hardware and artificial intelligence—building robust data pipelines, deploying computer vision models, and engineering predictive analytics frameworks.
 
 Having started my career hands-on with industrial automation systems, hardware-software integration and complex mechanical systems' troubleshootings, I transitioned into data science to build the intelligence that drives these systems. I specialize in taking raw, messy data (whether from sensors, APIs, or databases) and turning it into scalable, automated machine learning solutions.
 
