@@ -7,7 +7,7 @@ subtitle: Data Science & Machine Learning Enthusiast | Automation & Robotics Eng
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Pune, Maharashtra, India</p>
     <p>masalsam99@gmail.com</p>
