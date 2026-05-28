@@ -158,6 +158,8 @@ collections:
     output: true
   teachings:
     output: true
+  people:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
