@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: PROJECTS
 permalink: /projects/
 description: A collection of end-to-end machine learning, AI, and data engineering solutions.
 nav: true
