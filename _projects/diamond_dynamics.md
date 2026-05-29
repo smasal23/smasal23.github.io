@@ -2,12 +2,12 @@
 layout: page
 title: Diamond Dynamics Price & Market Predictor
 description: ML pipeline for predicting diamond prices and identifying market tiers.
-img: assets/img/projects/diamond/streamlit_home.png
+img: assets/img/projects/diamond/Diamonds.jpg
 importance: 1
 category: Machine Learning & AI
 ---
 
-**[View Source Code on GitHub](YOUR_GITHUB_REPO_LINK)**
+**[View Source Code on GitHub](https://github.com/smasal23/projects/tree/547e3a5f08a3cd15e9b222b894328834ce784be2/Diamond%20Dynamics%20Price%20Prediction%20and%20Market%20Segmentation)**
 
 ## 1. Problem Statement & Real-World Applicability
 
