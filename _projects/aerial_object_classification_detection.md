@@ -2,7 +2,7 @@
 layout: page
 title: Aerial Object Classification & Detection
 description: An end-to-end deep learning pipeline for classifying and detecting birds and drones in aerial imagery.
-img: assets/img/projects/aerial/yolo_test_predictions.png
+img: assets/img/projects/aerial/Detection_Overview.png
 importance: 2
 category: Computer Vision & Robotics
 ---
