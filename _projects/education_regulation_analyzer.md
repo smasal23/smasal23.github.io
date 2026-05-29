@@ -2,7 +2,7 @@
 layout: page
 title: Education Regulation Impact Analyzer (ERIA)
 description: An AI-powered NLP pipeline utilizing Large Language Models to simplify complex education policies into structured, actionable insights.
-img: assets/img/projects/eria/summary_dashboard.png
+img: assets/img/projects/eria/Regulation.jpg
 importance: 2
 category: Machine Learning & AI
 ---
