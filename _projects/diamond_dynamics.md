@@ -2,7 +2,7 @@
 layout: page
 title: Diamond Dynamics Price & Market Predictor
 description: ML pipeline for predicting diamond prices and identifying market tiers.
-img: assets/img/projects/diamond/streamlit_home.png
+img: assets/img/projects/diamond/Diamonds.jpg
 importance: 1
 category: Machine Learning & AI
 ---
