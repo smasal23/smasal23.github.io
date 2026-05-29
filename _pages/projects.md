@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of end-to-end machine learning, automation, and data engineering solutions.
+description: A collection of end-to-end machine learning, AI, and data engineering solutions.
 nav: true
 nav_order: 3
 display_categories: ["Machine Learning & AI", "Computer Vision & Robotics", "Data Engineering"]
