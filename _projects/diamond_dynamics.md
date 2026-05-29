@@ -37,7 +37,7 @@ This project solves two critical business needs for retail merchants and pricing
 This repository was architected as a modular, production-ready system rather than a standard Jupyter Notebook experiment.
 
 - **Languages & Core:** `Python`, `Pandas`, `NumPy`
-- **Machine Learning:** `Scikit-Learn`, `XGBoost`, `LightGBM`, `PyTorch`
+- **Machine Learning:** `Scikit-Learn`, `XGBoost`, `Random Forest`, `PyTorch`, `Dimensionality Reduction`
 - **Ops & Deployment:** `Streamlit`, `Joblib`, `PyYAML`, `Pytest`
 - **Architecture:** Config-driven parameters (`configs/`), reusable modules (`src/data/`, `src/features/`, `src/modeling/`), and an isolated inference layer.
 
@@ -80,7 +80,7 @@ This repository was architected as a modular, production-ready system rather tha
     </div>
 </div>
 <div class="caption">
-    Figure 3: Feature Importance breakdown showing Carat and Volume Proxy as dominant price drivers.
+    Figure 3: Feature Importance breakdown showing 'Y' dimension and Volume Proxy as dominant price drivers.
 </div>
 
 ---
@@ -105,7 +105,7 @@ Evaluated KMeans, Agglomerative Clustering, and DBSCAN using Silhouette Scores, 
     </div>
 </div>
 <div class="caption">
-    Figure 4: 2D PCA projection of the DBSCAN market segmentation.
+    Figure 4: 3D PCA projection of the DBSCAN market segmentation.
 </div>
 
 ---
