@@ -13,3 +13,4 @@ _scripts/*
 _data/citations.yml
 _projects/*.md
 _pages/projects.md
+_pages/repositories.md
