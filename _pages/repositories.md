@@ -1,26 +1,28 @@
 ---
 layout: page
 permalink: /repositories/
-title: REPOSITORIES
-description: This page dynamically pulls my open-source contributions, machine learning pipelines, and software engineering projects directly from GitHub.
+title: Repositories
+description: This page highlights my open-source contributions, machine learning pipelines, and software engineering projects.
 nav: true
 nav_order: 4
 ---
 
-Click on any repository card to view the source code, documentation, and commit history.
+Click on any repository card below to view the live source code, documentation, and technical commit history directly on GitHub.
 
-{% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-{% endif %}
 
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+{% include repository/repo.liquid repository="smasal23/projects" %}
+
+{% include repository/repo.liquid repository="smasal23/python_foundation_examples" %}
+
+{% include repository/repo.liquid repository="smasal23/numpy-statistics-foundations" %}
+
+{% include repository/repo.liquid repository="smasal23/pandas-data-analysis-practice" %}
+
+{% include repository/repo.liquid repository="smasal23/sql_learning" %}
+
+{% include repository/repo.liquid repository="smasal23/machine_learning_portfolio" %}
+
+{% include repository/repo.liquid repository="smasal23/python_learning" %}
+
 </div>
-{% endif %}
