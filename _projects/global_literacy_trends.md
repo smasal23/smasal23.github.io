@@ -2,7 +2,7 @@
 layout: page
 title: Global Literacy & Educational Trends
 description: An end-to-end data analytics and behavioral engineering pipeline diagnosing global literacy, educational velocity, and socio-economic efficiency layers.
-img: assets/img/projects/literacy/Page_1.png
+img: assets/img/projects/literacy/Infographic.png
 importance: 2
 category: Data Engineering
 ---
