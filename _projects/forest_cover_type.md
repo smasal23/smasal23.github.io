@@ -2,7 +2,7 @@
 layout: page
 title: Forest Cover Type Prediction
 description: An end-to-end machine learning pipeline utilizing SMOTE and tuned ensemble models to classify forest cover from imbalanced geospatial data.
-img: assets/img/projects/forest/App_1.png
+img: assets/img/projects/forest/Cover.jpg
 importance: 2
 category: Machine Learning & AI
 ---
