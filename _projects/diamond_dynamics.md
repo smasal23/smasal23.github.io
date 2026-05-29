@@ -7,7 +7,7 @@ importance: 1
 category: Machine Learning & AI
 ---
 
-**[View Source Code on GitHub](YOUR_GITHUB_REPO_LINK)** | **[Live Streamlit Dashboard](YOUR_STREAMLIT_APP_LINK)**
+**[View Source Code on GitHub](https://github.com/smasal23/projects/tree/547e3a5f08a3cd15e9b222b894328834ce784be2/Diamond%20Dynamics%20Price%20Prediction%20and%20Market%20Segmentation)**
 
 ## 1. Problem Statement & Real-World Applicability
 Diamond valuation is notoriously complex. Small variations in carat, clarity, cut quality, or physical dimensions trigger non-linear, interacting impacts on market value. Consequently, manual price estimation is subjective, inconsistent, and difficult to scale. 
