@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - smasal23
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - smasal23/projects
+  - smasal23/python_foundational_examples
+  - smasal23/numpy-statistics-foundations
+  - smasal23/pandas-data-analysis-practice
+  - smasal23/sql_learning
+  - smasal23/machine_learning_portfolio
+  - smasal23/python_learning
