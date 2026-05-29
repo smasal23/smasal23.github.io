@@ -7,6 +7,8 @@ importance: 2
 category: Computer Vision & Robotics
 ---
 
+**[View Source Code on GitHub](https://github.com/smasal23/projects/tree/547e3a5f08a3cd15e9b222b894328834ce784be2/Aerial%20Object%20Classification%20%26%20Detection)**
+
 ### Real-World Problem
 Birds and drones can visually resemble one another in long-range or aerial imagery. This visual ambiguity creates significant challenges for modern surveillance systems, airspace safety monitoring, and automated visual perception systems. This project aims to accurately disambiguate and locate these entities to enhance security and airspace management.
 
