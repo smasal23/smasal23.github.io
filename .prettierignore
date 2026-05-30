@@ -15,4 +15,4 @@ _projects/*.md
 _pages/projects.md
 _pages/repositories.md
 assets/pdf/RESUME.pdf
-assets/json/resume.json
+_data/resume.json
