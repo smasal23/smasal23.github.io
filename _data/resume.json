@@ -123,13 +123,13 @@
   "certificates": [
     {
       "name": "Master Data Science Program",
-      "date": "2024-01-01",
+      "date": "2026-04-01",
       "issuer": "HCL GUVI",
       "url": ""
     },
     {
       "name": "Verified Data Science with Python",
-      "date": "2023-01-01",
+      "date": "2024-01-01",
       "issuer": "EDX",
       "url": ""
     },
