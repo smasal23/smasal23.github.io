@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/RESUME.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
+cv_format: jsonresume
 description: A structured overview of my professional experience, education, and technical competencies.
 toc:
   sidebar: left
