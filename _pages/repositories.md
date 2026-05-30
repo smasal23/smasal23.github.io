@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: REPOSITORIES
 description: This page highlights my open-source contributions, machine learning pipelines, and software engineering projects.
 nav: true
 nav_order: 4
